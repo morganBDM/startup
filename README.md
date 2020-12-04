@@ -8,3 +8,5 @@ LinkedinScraper --> accéder aux profils en tout état de cause
 
 Founderz --> entreprendre en version marseillaise
 
+Makercode --> installation d'une version Belle de Mai 
+
