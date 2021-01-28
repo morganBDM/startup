@@ -10,3 +10,4 @@ Founderz --> entreprendre en version marseillaise
 
 Makercode --> installation d'une version Belle de Mai 
 
+Homebrew --> stack chargé d'affaires pour environnement
