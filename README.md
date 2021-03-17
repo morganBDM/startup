@@ -11,3 +11,6 @@ Founderz --> entreprendre en version marseillaise
 Makercode --> installation d'une version Belle de Mai 
 
 Homebrew --> stack chargé d'affaires pour environnement
+https://www.belledemai.org/charges-d-affaires-notre-metier-part1/
+
+
